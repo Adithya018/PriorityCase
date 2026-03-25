@@ -1,4 +1,4 @@
-# Microsoft PTA Training - Day 1: SQL Engine & 911 Triage
+# Microsoft Training - Day 1: SQL Engine & 911 Triage
 **Role:** Partner Technical Advisor (PTA) | **Project:** SkyGate Airlines Recovery
 
 ## 🎯 Learning Objective
@@ -21,6 +21,6 @@ Mastered the SQL Server Engine architecture and diagnostic workflow to resolve H
 * **Resolution:** Performed a surgical `KILL` of the blocking session, restoring the "Path to Green" in seconds.
 * **Stakeholder Management:** Drafted an RCA for the CSAM to explain the technical root cause and recommended **Read Committed Snapshot Isolation (RCSI)** as a long-term preventative measure.
 
-## 🚀 Key Takeaways for PTA Role
+## 🚀 Key Takeaways for Role
 * **DSAT Prevention:** Learned that consistent communication and "Proactive Guidance" are as important as the technical fix.
 * **Escalation Management:** Understanding when to engage PG (Product Group) via IcM versus resolving environmental configuration issues.
